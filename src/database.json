@@ -220,7 +220,7 @@
     "repo": "https://github.com/zekth/deno_random_interval"
   },
   "slugify": {
-    "url: "https://raw.githubusercontent.com/jcardama/deno_slugify/${b}/",
+    "url": "https://raw.githubusercontent.com/jcardama/deno_slugify/${b}/",
     "repo": "https://github.com/jcardama/deno_slugify"
   },
   "std": {
